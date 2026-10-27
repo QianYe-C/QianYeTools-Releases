@@ -2,12 +2,13 @@
 
 这里提供 Windows x64 安装包、工具发行包和更新清单。开发源码独立维护，本仓库不包含私有源码仓库的历史。
 
-从 [最新版本](https://github.com/QianYe-C/QianYeTools-Releases/releases/latest) 下载 `QianYeTools-Setup-win-x64.exe`，打开后安装。无需预装Git、Python或.NET开发SDK。
+从 [最新版本](https://github.com/QianYe-C/QianYeTools-Releases/releases/latest) 下载 `QianYeTools-Setup-win-x64.exe`，先选择安装位置，再安装。程序、工具、配置和默认缓存均在选定目录；测试资料库单独选择。已安装时直接打开已有安装，不再进入便携模式或要求重复安装。无需预装Git、Python或.NET开发SDK。
 
 - 按需安装UI布局编辑器、Android投屏和微信真机测试工具。
 - 每个工具可配置目录、依赖与参数，并单独控制AI调用。
 - 启动器自动检查更新，点击后下载；更新保留配置和测试资料。
 - 测试配置、截图、日志与报告写入选择的资料库，按游戏、构建和批次分类。
+- 可从启动器设置或Windows“已安装的应用”卸载；支持清空本机工具、配置和缓存后重装，外置测试资料库不删除。
 
 手机需要本人完成USB/无线调试授权及小游戏开发版权限。预览推送、可玩检查与CPU采样分别记录结果。
 
